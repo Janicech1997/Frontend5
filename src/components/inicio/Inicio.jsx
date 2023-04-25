@@ -3,6 +3,7 @@ import Header from "../layout/Header";
 import Footer from "../layout/Footer";
 import classes from "../inicio/Inicio.module.css"
 
+
 function Inicio (){
 		return(
 			<>
