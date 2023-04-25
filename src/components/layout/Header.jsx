@@ -31,7 +31,6 @@ export default function Header() {
                 <a href="./contactos">Contactos</a>
               </li>
               <li>
-
               </li>
               
             </ul>
