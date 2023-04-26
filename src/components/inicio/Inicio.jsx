@@ -22,10 +22,10 @@ function Inicio (){
 	</div>
 </section>
 
-<section className="noticiasgamer recent-game-section spad set-bg">
-  <div className="container">
-    <div className="section-title">
-      <h2>Noticias Gamers</h2>
+<section>
+  <div className={classes.container}>
+    <div className={classes.sectiontitle}>
+      <h2 className={classes.titulo}>Noticias Gamers</h2>
     </div>
     <div className={classes.card}>
     <Card style={{ width: '18rem' }}>

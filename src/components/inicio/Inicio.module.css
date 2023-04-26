@@ -15,6 +15,14 @@
     background-size: cover;
     background-position: center center;
   }
+  .titulo{
+    text-align: center;
+    padding: 20px;
+  }
+  .container {
+    justify-content: space-between;
+    padding: 0 30px;
+  }
   
   .h1{
     color: white;
@@ -34,21 +42,6 @@
     padding: 6px 25px;
   }
   
-  .cata.new {
-    background: #ff205f;
-  }
-  
-  .cata.strategy {
-    background: #4eae60;
-  }
-  
-  .cata.racing {
-    background: #694eae;
-  }
-  
-  .cata.adventure {
-    background: #40abf5;
-  }
   .sitebtn {
     display: inline-block;
     text-align: center;
@@ -64,4 +57,7 @@
   }
   .card {
     display: flex;
+    margin: 30px;
+    padding: 0 30px;
+    justify-content: space-between;
   }
