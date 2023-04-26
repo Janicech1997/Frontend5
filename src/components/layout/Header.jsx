@@ -17,7 +17,6 @@ export default function Header() {
           </div>
           {/* responsive */}
           <div className={classes.navswitch}>
-            <i className="fa fa-bars" />
           </div>
           {/* site menu */}
           <nav className={classes.mainmenu}>

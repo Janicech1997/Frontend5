@@ -7,11 +7,14 @@
 	overflow: hidden;
 	padding: 18px 0;
 	border-bottom: 1px solid #ffb320;
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+
 }
 
 .sitelogo {
 	display: inline-block;
-	float: left;
 	padding-top: 6px;
 	width: 50px;
 }
@@ -38,7 +41,7 @@
 	list-style: none;
 }
 
-.main-menu ul li {
+.mainmenu ul li {
 	display: inline;
 }
 
